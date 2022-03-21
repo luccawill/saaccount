@@ -1,8 +1,9 @@
 #  How to create service account with mobile phone using termux
 
-- [x] First install termux on your phone and You can download Termux here by click below icon.
+- [x] First install termux on your phone and You can download Termux here by click below link.
 
-[![](hhttps://telegra.ph/file/bba5b4f396e1d9d4a6420.png)version 0.117](https://drive.google.com/uc?id=1vi4EoX7m_6rS1WNW17Lur1J0f1Zt1j8o&export=download)
+#version 0.117]
+#(https://drive.google.com/uc?id=1vi4EoX7m_6rS1WNW17Lur1J0f1Zt1j8o&export=download)
 
 After complete installation process, run below cmd on termux.
 ```
