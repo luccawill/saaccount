@@ -32,7 +32,7 @@ cd /sdcard/MyTermux
 git clone https://github.com/luccawill/saaccount
 ```
 ```
-cd /sdcard/MyTermux/service-accounts
+cd /sdcard/MyTermux/saaccount
 ```
 ```
 pip3 install -r requirements.txt
