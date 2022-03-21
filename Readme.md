@@ -45,11 +45,15 @@ python3 gen_sa_accounts.py --quick-setup -1
 ```
 python3 gen_sa_accounts.py  --download-keys Your Project ID
 ```
+
+```
 python generate_drive_token.py
 ```
+
 ```
 cd accounts
 ```
+
 ```
 python3 emails.py
 ```
