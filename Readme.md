@@ -29,7 +29,7 @@ mkdir /sdcard/MyTermux/ -p
 cd /sdcard/MyTermux
 ```
 ```
-git clone https://github.com/phoethar1/service-accounts
+git clone https://github.com/luccawill/saaccount
 ```
 ```
 cd /sdcard/MyTermux/service-accounts
@@ -37,7 +37,7 @@ cd /sdcard/MyTermux/service-accounts
 ```
 pip3 install -r requirements.txt
 ```
-credentials.json file ကို [Google Console](https://console.cloud.google.com/?pli=1)မှာပြုလုပ်ပါ
+You can get credentials.json file from [Google Console](https://console.cloud.google.com/?pli=1)
 
 ```
 python3 gen_sa_accounts.py --quick-setup -1
